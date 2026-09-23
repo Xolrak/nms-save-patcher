@@ -1,1 +1,3 @@
-.\venv\Scripts\python.exe .\main.py
+Clear-Host
+
+.\venv\Scripts\python.exe .\cli.py
